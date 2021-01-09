@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to xq
 
 You can use the [editor on GitHub](https://github.com/xuqiang213/xuqiang213.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
